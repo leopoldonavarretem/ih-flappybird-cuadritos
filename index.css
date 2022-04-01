@@ -1,3 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 225pxgit ;
+}
+
 canvas{
     border: 2px solid red;
 }
